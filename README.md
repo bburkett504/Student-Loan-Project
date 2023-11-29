@@ -2,22 +2,22 @@
 Student Loan Analysis Project
 ## Introduction
 This is a Microsoft Excel project on analysis of student loan data collected from [Data.gov](https://data.gov/).
-The National Student Loan Data System (NSLDS) is the national database of information about loans and grants awarded to students. The file [here](https://github.com/bburkett504/Student-Loan-Project/files/13505568/PortfolioSummary.1.xls) contains the orginal data.
+The National Student Loan Data System (NSLDS) is the national database of information about loans and grants awarded to students. The file [here](https://github.com/bburkett504/Student-Loan-Project/files/13505568/PortfolioSummary.1.xls) contains the original data.
 
-The project is to clean and transform the data from the orginal excel form and prepare it for a more in depth analysis. Read furhter for results.
+The project is to clean and transform the data from the original excel form and prepare it for a more in depth analysis. Read further for results.
 
-**_Disclaimer_**: _All datasets and report do not represent any company, institution or country, but just a sample/dummy datset to demonstrat the capabilites of Excel.
+**_Disclaimer_**: _All datasets and report do not represent any company, institution or country, but just a sample/dummy dataset to demonstrate the capabilities of Excel.
 
 ## Problem Statement
 Attached excel file is not in the best format for data analysis. 
 That said, I would like to complete the following:
-1. Analze Student Loan Data for trends and determine
+1. Analyze Student Loan Data for trends and determine
 2. Determine how much many students have outstanding student loan debt between 2013-2022 (10 year)
 3. Determine how much money is outstanding for these loans over this ten year period
 4. Complete transformations without losing any source data
 5. Automate this task for use on similar files
 
-## Skills/concetps demonstrated
+## Skills/concepts demonstrated
 - The following Excel feat
 - Table/Range creation
 - Custom PowerQuery Code
