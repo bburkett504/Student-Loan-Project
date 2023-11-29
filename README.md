@@ -11,18 +11,18 @@ The project is to clean and transform the data from the orginal excel form and p
 ## Problem Statement
 Attached excel file is not in the best format for data analysis. 
 That said, I would like to complete the following:
-•	Analze Student Loan Data for trends
-•	Complete transformations without losing any source data
-•	Automate this task for use on similar files
+- Analze Student Loan Data for trends
+- Complete transformations without losing any source data
+- Automate this task for use on similar files
 
 ## Skills/concetps demonstrated
-•	The following Excel feat
-•	Table/Range creation
-•	Custom PowerQuery Code
-•	Nested Let statement
-•	Unpivot
-•	PivotChart
-•	Chart formatting
+- The following Excel feat
+- Table/Range creation
+- Custom PowerQuery Code
+- Nested Let statement
+- Unpivot
+- PivotChart
+- Chart formatting
 ###
 ![Unformatted Data](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/b3647dd7-4723-4693-8c4c-72d56df446da)
 ![MCode](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/cec3445f-1dc8-43dd-8427-dddf7bd0add3)
