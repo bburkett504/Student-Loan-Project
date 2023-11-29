@@ -9,7 +9,8 @@ The project is to clean and transform the data from the orginal excel form and p
 **_Disclaimer_**: _All datasets and report do not represent any company, institution or country, but just a sample/dummy datset to demonstrat the capabilites of Excel.
 
 ## Problem Statement
-Attached excel file is not in the best format for data analysis. That said, I would like to complete the following:
+Attached excel file is not in the best format for data analysis. 
+That said, I would like to complete the following:
 •	Analze Student Loan Data for trends
 •	Complete transformations without losing any source data
 •	Automate this task for use on similar files
