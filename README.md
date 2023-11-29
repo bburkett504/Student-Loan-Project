@@ -11,9 +11,11 @@ The project is to clean and transform the data from the orginal excel form and p
 ## Problem Statement
 Attached excel file is not in the best format for data analysis. 
 That said, I would like to complete the following:
-- Analze Student Loan Data for trends
-- Complete transformations without losing any source data
-- Automate this task for use on similar files
+1. Analze Student Loan Data for trends and determine
+2. Determine how much many students have outstanding student loan debt between 2013-2022 (10 year)
+3. Determine how much money is outstanding for these loans over this ten year period
+4. Complete transformations without losing any source data
+5. Automate this task for use on similar files
 
 ## Skills/concetps demonstrated
 - The following Excel feat
@@ -23,12 +25,15 @@ That said, I would like to complete the following:
 - Unpivot
 - PivotChart
 - Chart formatting
-###
-![Unformatted Data](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/b3647dd7-4723-4693-8c4c-72d56df446da)
-![MCode](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/cec3445f-1dc8-43dd-8427-dddf7bd0add3)
-![Formatted Data](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/375ad788-fe69-4d6e-9add-8ba35a431e72)
-![Chart](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/2feee819-4956-4c77-b133-8abb7a218c41)
 ## Modeling:
 Single source table was normalized for simpler analysis.
+###
+![Unformatted Data](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/a4329488-3d81-4046-a2cd-11ff972648b0)
+![MCode](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/31c50bc1-5633-4996-a089-7e636f32685b)
+![Formatted Data](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/e8b0b94c-2a07-4493-b38d-ebf9656f2f64)
+![SummaryTable](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/55df03db-76f5-4eea-83d8-9f15feaf04fe)
+![Chart](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/a8d167ae-0550-44dd-948c-5179c776c796)
+
+
 
 
