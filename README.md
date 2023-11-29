@@ -2,7 +2,7 @@
 Student Loan Analysis Project
 ## Introduction
 This is a Microsoft Excel project on analysis of student loan data collected from [Data.gov](https://data.gov/).
-The National Student Loan Data System (NSLDS) is the national database of information about loans and grants awarded to students. The file contains [here](https://github.com/bburkett504/Student-Loan-Project/files/13505568/PortfolioSummary.1.xls) contains orginal data.
+The National Student Loan Data System (NSLDS) is the national database of information about loans and grants awarded to students. The file contains [here](https://github.com/bburkett504/Student-Loan-Project/files/13505568/PortfolioSummary.1.xls) contains the orginal data.
 
 The project is to clean and transform the data from the orginal excel form and prepare it for a more in depth analysis.
 
