@@ -34,8 +34,6 @@ Single source table was normalized for simpler analysis.
 ## Conclusion:
 ###
 - ![SummaryTable](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/55df03db-76f5-4eea-83d8-9f15feaf04fe)
-- ![Chart](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/cd948ba5-8871-4c71-b6b4-17526a9387fe)
-
-
+- ![Chart](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/74d9e326-395a-4e74-ab73-68fc7e865d44)
 
 
