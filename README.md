@@ -22,6 +22,7 @@ Attached excel file is not in the best format for data analysis. That said, I wo
 •	Unpivot
 •	PivotChart
 •	Chart formatting
+###
 ![Unformatted Data](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/b3647dd7-4723-4693-8c4c-72d56df446da)
 ![MCode](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/cec3445f-1dc8-43dd-8427-dddf7bd0add3)
 ![Formatted Data](https://github.com/bburkett504/Student-Loan-Project/assets/151954760/375ad788-fe69-4d6e-9add-8ba35a431e72)
